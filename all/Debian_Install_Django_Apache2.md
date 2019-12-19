@@ -35,6 +35,8 @@ Setup Django, Apache2, Python Tools, and mod_wsgi on Debian Linux Systems. (Debi
     python --version #should return Python 3.4
 
     pip install django==1.10.3
+    
+    sudo apt-get install python3-pip
 
     mkdir src && cd src
 
